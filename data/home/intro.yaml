@@ -1,0 +1,17 @@
+sections:
+
+- icon: 'fa-code'
+  title: 'Code'
+  description: 'Write Code'
+
+- icon: 'fa-calculator'
+  title: 'Learn'
+  description: 'Learn something new every session'
+
+- icon: 'fa-wrench'
+  title: 'Frameworks'
+  description: 'Work with different frameworks and tools'
+
+buttons:
+- link: '#'
+  text: 'Learn More'

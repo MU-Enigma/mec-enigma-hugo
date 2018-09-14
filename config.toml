@@ -1,4 +1,14 @@
-title = "Enigma | CS Club at MEC"
-baseURL = "https://mec-enigma.github.io"
 languageCode = "en-us"
-theme = "airspace"
+title = "Enigma"
+baseURL = "http://mec-enigma.github.io/"
+theme = "dopetrope"
+
+[params.portfolio]
+    title = "Projects"
+    foldername = "projects"
+    findoutmoretext = "Find out more"
+
+[params.blog]
+    title = "Blog"
+    viewalltext = "View All"
+    foldername = "blog"
