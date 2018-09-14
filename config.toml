@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+title = "Enigma | CS Club at MEC"
+baseURL = "https://mec-enigma.github.io"
 languageCode = "en-us"
-title = "My New Hugo Site"
 theme = "airspace"
