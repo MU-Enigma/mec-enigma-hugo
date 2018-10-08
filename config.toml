@@ -35,7 +35,7 @@ DefaultContentLanguage = "en"
     # Hero Area Section
     [Languages.en.params.hero]
         enable  = true
-        heading = "We are a group of college students, crazy passionate about Computer Science"
+        heading = "We are a group of college students, Crazy & Passionate about Computer Science"
         # description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. At quo dolor est incidunt suscipit minima, alias numquam voluptatum rerum porro. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore at laboriosam unde repellat id expedita quae quisquam libero officia consequatur."
         button  = true
         btnText = "Know More"
@@ -86,31 +86,23 @@ DefaultContentLanguage = "en"
     # Navbar Menus
     [[menu.nav]]
         name    = "About"
-        url     = "About"
+        url     = "http://mec-enigma.github.io/about"
         weight  = 2
     [[menu.nav]]
-        name    = "Projects"
-        url     = "Projects"
+        name    = "Blog"
+        url     = "http://mec-enigma.github.io/blog"
         weight  = 3
     [[menu.nav]]
-        name    = "Blog"
-        url     = "Blog"
-        weight  = 4
-    [[menu.nav]]
         name    = "Contact"
-        url     = "Contact"
-        weight  = 5
+        url     = "http://mec-enigma.github.io/contact"
+        weight  = 4
 
     # Footer Quick links Menu
     [[menu.quicklink]]
-        name    = "about"
-        url     = "about"
+        name    = "About"
+        url     = "http://mec-enigma.github.io/about"
         weight  = 1
     [[menu.quicklink]]
-        name    = "projects"
-        url     = "projects"
+        name    = "Blog"
+        url     = "http://mec-enigma.github.io/blog"
         weight  = 2
-    [[menu.quicklink]]
-        name    = "blog"
-        url     = "blog"
-        weight  = 3
