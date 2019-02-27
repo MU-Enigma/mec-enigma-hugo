@@ -21,9 +21,9 @@ Our mission is to create a community of mentors and friends and partner with com
 
 ## Sounds Interesting?
 
-First things first: sign up for our <a href>club mailing list</a>. We use it to announce club events, job opportunities, and other computer science-related happenings.
+First things first: send an email  up for our <a href>club mailing list</a>. We use it to announce club events, job opportunities, and other computer science-related happenings.
 
-Also, we have a Discord serverfor general CS-related questions and discussion. If you want to reach out to alumni, ask curriculum related questions, or talk about rad hackathon projects, please join! Sign up <a href>here</a>.
+Also, we have a Discord server for general CS-related questions and discussion. If you want to reach out to alumni, ask curriculum related questions, or talk about rad hackathon projects, please join! Sign up <a href>here</a>.
 
 While you're here, be sure to check out our <a href>past projects</a> and other <a href>events/blog posts</a> we have coming up.
 
