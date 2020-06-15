@@ -40,7 +40,7 @@ I had SSH'd into my pi through an ethernet cable network, then connected my pi t
 
 Basically, this is the most low-effort unintuitive piece of code you'll ever come across. But hey, as long as it annoys people to the point of crushing loss of irony, I'm happy.
 
-- [Rishab Ramanathan](https://www.linkedin.com/in/rishab-ramanathan-625609153/)
+- [Rishab Ramanathan](https://www.linkedin.com/in/rishab-ramanathan-625609153/) | [xdbot](https://github.com/wonder-coconut/xdbot)
 
 <style>
 .image-center{
