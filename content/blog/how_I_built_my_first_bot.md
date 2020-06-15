@@ -27,7 +27,7 @@ The next challenge was something because of which I was able to learn a lot of n
 
 The funny thing about this was that I made it during my End Semester Exams. Like always, the most interesting and attractive ideas/projects show up only when one has exams.
 This whole learning made me realize that there’s *so much more* in Computer Science and not just Machine Learning or Computer Vision or just raw programming. There’s a whole big never ending ocean out there to sail and explore.
- 
+
 - [Ananta Srikar](http://anantasrikar.github.io/)
 
 <style>
