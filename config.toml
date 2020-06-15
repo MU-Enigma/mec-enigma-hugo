@@ -33,6 +33,9 @@ disableSitemap = false
 disable404     = false
 disableHugoGeneratorInject = false
 
+[markup.goldmark.renderer]
+unsafe= true
+
 [permalinks]
   posts = "/posts/:year/:month/:title/"
 
@@ -75,14 +78,6 @@ disableHugoGeneratorInject = false
     logoHomeLink = "/"
 
   # Social icons
-  [[params.social]]
-    name = "twitter"
-    url  = "https://twitter.com/MECEnigma"
-
-  [[params.social]]
-    name = "email"
-    url  = "mailto:enigma.thecsclub@gmail.com"
-
   [[params.social]]
     name = "github"
     url  = "https://github.com/MEC-Enigma"
