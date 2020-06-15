@@ -12,7 +12,16 @@ categories = [
 ]
 [ author ]
   name = "Rishab Ramanathan"
+  link = "https://www.linkedin.com/in/rishab-ramanathan-625609153/"
 +++
+
+<style>
+.image-center{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+</style>
 
 The idea actually reached it's inception during my time working on the [Covindia](https://covindia.com) website, when I was discussing stuff with [Srikar](https://github.com/AnantaSrikar). The first thing you notice when you text him is his "substantial" use of the phrase "xD". So yes, you can pretty much figure out the next course of action: make a bot that reacts to every xD it encounters until it annoys the sugar honey iced tea out of them.
 
@@ -40,12 +49,4 @@ I had SSH'd into my pi through an ethernet cable network, then connected my pi t
 
 Basically, this is the most low-effort unintuitive piece of code you'll ever come across. But hey, as long as it annoys people to the point of crushing loss of irony, I'm happy.
 
-- [Rishab Ramanathan](https://www.linkedin.com/in/rishab-ramanathan-625609153/) | [xdbot](https://github.com/wonder-coconut/xdbot)
-
-<style>
-.image-center{
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
-}
-</style>
+Src Code: [xdbot](https://github.com/wonder-coconut/xdbot)
